@@ -1,3 +1,8 @@
+#项目基本描述
+就是一个简单的单页面react小项目，项目主要是为了实现一个商品秒杀倒计时功能的页面，采用了简单的页面布局，用到了antd，用组件间通信的方式传递数据
+![image](https://user-images.githubusercontent.com/95153004/165213778-6a977b14-6630-423e-99ab-676c0a8daa03.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
