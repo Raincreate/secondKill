@@ -1,0 +1,54 @@
+/* 设置导航的外面盒子 */
+body nav.head{
+    width: 100%;
+    height: 107px;
+    background-color:#ffffff;
+    border-bottom: solid 4px rgb(237, 67, 91);
+    position: sticky;
+    top: 0px;
+    left: 0px;
+ 
+}
+/* 装图片和无序列表的盒子 */
+body nav div{
+    width: 1230px;
+    height: 107px;
+    background-color: pink;
+    margin: 0px auto;
+}
+body nav div  a{
+    margin: 21px auto;
+    float: left;
+}
+body nav ul {
+    list-style: none;
+    padding-top: 20px;
+}
+body nav ul span.first{
+    width: 21px;
+    height: 20px;
+    margin: 54px 15px 0px 57px;
+    font-size: 18px;
+    font-family: '微软雅黑';
+    color: #fc475d;
+    padding-right: 16px;
+    border-right: #6c6c6c 1px solid;
+}
+body nav ul span.inner{
+    height: 20px;
+    margin: 54px 10px 0px 4px;
+    font-size: 18px;
+    font-family: '微软雅黑';
+    color: #6c6c6c;
+    padding-right: 14px;
+    border-right: #6c6c6c 1px solid;
+}
+body nav ul span.last{
+    width: 39px;
+    height: 20px;
+    margin: 54px 0px 0px 4px;
+    font-size: 18px;
+    font-family: '微软雅黑';
+    color: #6c6c6c;
+}
+/* 导航结束 */
